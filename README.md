@@ -4,21 +4,21 @@ Projeto de chat com frontend e backend
 
 <h2 align="center">Tecnologias: </h2>
 
-Mongobd
-Express
-ReactJs
-NodeJs
-Bootstrap
-JavaScript
-Html
+Mongobd,
+Express,
+ReactJs,
+NodeJs,
+Bootstrap,
+JavaScript,
+Html,
 CSS
 
 <h2 align="center">Funcionalidades: </h2>
 
-Cadastro
-Foto do usuário
-Envio e recebimento de mensagens
-Lista de contatos
+Cadastro,
+Foto do usuário,
+Envio e recebimento de mensagens,
+Lista de contatos,
 Lista de grupo
 
 
